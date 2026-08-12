@@ -1,0 +1,16 @@
+# Geospatial Processing
+geopandas
+rasterio
+shapely
+pyproj
+
+# Machine Learning & Statistics
+scikit-learn
+xgboost
+scipy
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
